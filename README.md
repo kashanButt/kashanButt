@@ -1,4 +1,4 @@
-### Hi There Kashan here, a Stack developer passionate about web and software development.
+### Hi There Kashan here, a full-stack developer passionate about web and software development.
 ## Stack
 My Primary Stack is:
 -  React
